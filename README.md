@@ -34,7 +34,7 @@ This method calculates the average of data points over a specified number of per
 
 ## Contributing
 
-    Please see the [contributing guide](https://github.com/ciroque/forecast_ex/blob/main/CONTRIBUTING.md) for guidelines on how to best contribute to this project.
+Please see the [contributing guide](https://github.com/ciroque/forecast_ex/blob/main/CONTRIBUTING.md) for guidelines on how to best contribute to this project.
 
 ## License
 
