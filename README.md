@@ -1,5 +1,5 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 # ForecastEx
 
@@ -9,6 +9,8 @@ ForecastEx is a statistical forecasting library for Elixir. It includes a number
 The algorithms currently implemented are:
 
 - [Rolling Average](#rolling-average)
+
+<br><br><br><br><br>
 
 ## Getting Started
 
